@@ -1,0 +1,8 @@
+include <iostream>
+using namespage std
+int main()
+ { int i;
+   for (i=1;i<=666;i++)
+   cout<<"Kurt rullzzz";
+  }
+return 0;
